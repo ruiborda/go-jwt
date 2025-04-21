@@ -1,0 +1,7 @@
+../.idea
+*.go
+!*.go.enc
+!filecrypto.go
+!generate_keys.go
+private.pem
+public.pem
